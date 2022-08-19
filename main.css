@@ -1,0 +1,56 @@
+h1{
+  color: White;
+ font-style: italic; 		
+ font-weight: bold; 		
+ font-size: 30px; 		
+ font-family: arial, sans-serif; 	
+  
+}
+li{
+    color: white;
+}
+h2{
+    color: White;
+    font-style: italic;
+}
+h5{
+    color: white;
+    font-style: italic;
+}
+body {
+    background: brown;
+    
+}
+img{
+    max-width: 380px;
+    border-radius: 50px; 
+    
+      
+}		
+
+
+bottom{
+    color: white;
+}
+hr{
+    background: white;
+   
+}
+footer{
+    color: white;
+}
+hr{
+   
+    background: white;
+    max-width: 780px;
+    border-radius: 400px; 
+    
+}
+#mc{
+    
+    max-width: 980px;
+    border-radius: 50px; 
+}    
+
+
+
